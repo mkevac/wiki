@@ -32,3 +32,7 @@ Homepage: [https://jonas.github.io/tig/](https://jonas.github.io/tig/)
 
 Homepage: [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 
+### git-interactive-rebase-tool
+
+Homepage: [https://github.com/MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool)
+
