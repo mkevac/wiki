@@ -28,3 +28,7 @@ Homepage: [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
 
 Homepage: [https://jonas.github.io/tig/](https://jonas.github.io/tig/)
 
+### hyperfine
+
+Homepage: [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+
