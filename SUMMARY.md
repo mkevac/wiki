@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Command Line Tools](command-line-tools.md)
 
 ## Meta
 
