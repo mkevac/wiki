@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Management](management.md)
 * [Rocksdb](rocksdb.md)
 * [Docker](docker.md)
 * [Linux Settings](linux-settings.md)
