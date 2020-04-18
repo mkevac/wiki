@@ -4,9 +4,9 @@ Language, model and set of tools originally invented and implemented by [Leslie 
 
 Wiki page: [https://en.wikipedia.org/wiki/TLA%2B](https://en.wikipedia.org/wiki/TLA%2B)
 
-Amazing talk: [https://www.youtube.com/watch?v=\_9B\_\_0S21y8](https://www.youtube.com/watch?v=_9B__0S21y8)
+{% embed url="https://www.youtube.com/watch?v=\_9B\_\_0S21y8" caption="Amazing Talk" %}
 
-Second one: [https://youtu.be/ATobswwFwQA](https://youtu.be/ATobswwFwQA)
+{% embed url="https://www.youtube.com/watch?v=ATobswwFwQA&feature=youtu.be" caption="Another Amazing Talk" %}
 
 Site for learning the tool: [https://learntla.com/](https://learntla.com/)
 
