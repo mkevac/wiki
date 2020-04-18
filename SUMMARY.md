@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Modelling](modelling/README.md)
+* [Modelling And Formal Specifications](modelling/README.md)
+  * [TLA+](modelling/tla+.md)
   * [Alloy](modelling/alloy.md)
 * [Networking](networking/README.md)
   * [TCP Incast problem](networking/tcp-incast-problem.md)
