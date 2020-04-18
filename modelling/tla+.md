@@ -12,3 +12,5 @@ Site for learning the tool: [https://learntla.com/](https://learntla.com/)
 
 Series of blog posts for learning the tool: [https://pron.github.io/posts/tlaplus\_part1](https://pron.github.io/posts/tlaplus_part1)
 
+[Practical TLA+ Book](https://www.amazon.com/Practical-TLA-Planning-Driven-Development/dp/1484238281)
+
