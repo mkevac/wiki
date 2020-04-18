@@ -2,7 +2,7 @@
 
 There are formal methods to model applications, interractions or some kind of software. Alloy is an example of such a tool.
 
-This is a good introduction to Alloy: [https://www.youtube.com/watch?v=FvNRlE4E9QQ](https://www.youtube.com/watch?v=FvNRlE4E9QQ)
+{% embed url="https://www.youtube.com/watch?v=FvNRlE4E9QQ" caption="Good introduction to Alloy" %}
 
 Official page: [https://alloytools.org/](https://alloytools.org/)
 
