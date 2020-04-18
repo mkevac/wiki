@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Quotes](quotes.md)
 * [Modelling And Formal Specifications](modelling/README.md)
   * [TLA+](modelling/tla+.md)
   * [Alloy](modelling/alloy.md)
