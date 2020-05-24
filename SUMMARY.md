@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Parallels Desktop](parallels-desktop.md)
 * [Quotes](quotes.md)
 * [Modelling And Formal Specifications](modelling/README.md)
   * [TLA+](modelling/tla+.md)
