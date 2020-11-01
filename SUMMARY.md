@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Parallels Desktop](parallels-desktop.md)
+* [Note Taking](note-taking.md)
 * [Quotes](quotes.md)
 * [Modelling And Formal Specifications](modelling/README.md)
   * [TLA+](modelling/tla+.md)
